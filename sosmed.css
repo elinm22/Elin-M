@@ -1,0 +1,51 @@
+<style type="text/css">
+<style>
+.kt-social-buttons-widget ul {
+list-style: none;
+padding-left: 0;
+}
+.kt-social-buttons-widget li a {
+font-size: 10px;
+text-transform: uppercase;
+letter-spacing: 2px;
+text-decoration: none;
+display: block;
+color: #F0FFFF;
+padding: 10px 1px 10px 10px;
+background:#5F9EAD;
+}
+.kt-social-buttons-widget ul li {
+width: 90%;
+margin-bottom: 10px;
+}
+.kt-social-buttons-widget li:hover a.social-btn-twitter {
+background: #1da1f2;
+color:#fff;
+}
+.kt-social-buttons-widget li a i {
+float: right;
+width: 35px;
+height: 14px;
+line-height: 14px;
+text-align: ;
+margin: 0;
+padding: 0 0 0 10px;
+font-size: 14px;
+}
+.kt-social-buttons-widget li a i {
+border-left: 1px solid #666;
+line-height: 14px;
+}
+.kt-social-buttons-widget li:hover a.social-btn-facebook {
+background: #3b5998;
+color:#fff;
+}
+.kt-social-buttons-widget li:hover a.social-btn-youtube {
+background: #cd201f;
+color:#fff;
+}
+.kt-social-buttons-widget li:hover a.social-btn-instagram {
+background: #405de6;
+color:#fff;
+}
+</style>

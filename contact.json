@@ -1,0 +1,57 @@
+[
+	{
+		"nama":"Elin Marliana",
+		"alamat":"Jalan Kh Maisin 1 No.50",
+		"tel":"085771340042"
+	},
+	{			
+		"nama":"Revina Tania Pratiwi",
+		"alamat":"Jalan Supriyadi No. 19",
+		"tel":"085817982506"
+	},
+	{			
+		"nama":"Davis Khaliq",
+		"alamat":"Kapling taman wisata, Blok A 12 No.28",
+		"tel":"081284537864"
+	},
+	{			
+		"nama":"Aditya Dharmawan",
+		"alamat":"Jalan Kamoung Gempol",
+		"tel":"0895344792093"
+	},
+	{			
+		"nama":"Muhammad Yusuf",
+		"alamat":"Perumahan Duku Zambrud",
+		"tel":"08998460737"
+	},
+	{	
+		"nama":"Albert",
+		"alamat":"Royal Residence C B6 No.18",
+		"tel":"082112958951"
+	},
+	{
+		"nama":"Mitchell Marcel",
+		"alamat":"Perum Bumi Rawatembaga",
+		"tel":"08980780853"
+	},
+	{
+		"nama":"Widi Putra Pratama",
+		"alamat":"Jalan Lumbu tengah 169",
+		"tel":"089528752326"
+	},
+	{
+		"nama":"Helmi Saputra",
+		"alamat":"Jalan Anoa 2 Blok A No.58",
+		"tel":"083176521345"
+	},
+	{
+		"nama":"Nanalia",
+		"alamat":"Perumahan PWI 4",
+		"tel":"0895341620952"
+	},
+	{
+		"nama":"Allif Fajri",
+		"alamat":"Jalan Perintis 2 No. 11",
+		"tel":"081297837076"
+	}	
+]
